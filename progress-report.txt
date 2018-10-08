@@ -1,0 +1,24 @@
+Progress Report
+
+Do you have data fully in hand and if not, what blockers are you facing?
+The data I have is fully in hand but I plan to collect more data to strengthen my findings. At this moment, I am not facing any blockers in collecting data other than the constraint that I can only collect so much data in one given day. 
+
+Have you done a full EDA on all of your data?
+Yes I have done a full EDA of my data. I have checked for missing values, zeroes, and plotted distributions of values. 
+
+Have you begun the modeling process? How accurate are your predictions so far?
+I have finished the modeling process so far. Logistic regression and support vector classifiers are both accurate to about 88% but when I run a neural network, I am getting a 94% accuracy. 
+
+What blockers are you facing, including processing power, data acquisition, modeling difficulties, data cleaning, etc.? How can we help you overcome those challenges?
+I can only parse at most 5000 listings a day. At this time, 5000 listings per day is more than enough data than I will need for this project. 
+
+Have you changed topics since your lightning talk? Since you submitted your Problem Statement and EDA? If so, do you have the necessary data in hand (and the requisite EDA completed) to continue moving forward?
+
+I did not change topics. 
+
+What is your timeline for the next week and a half? What do you have to get done versus what would you like to get done?
+
+I plan to conduct a business case study of my project and present how my recommendations are better for a customer than algorithmically performing the same set of results. That is, I plan to show how my recommendations are more accurate than simply searching Craigslist for apartments in a certain price range. 
+
+What topics do you want to discuss during your 1:1?
+I want to focus more on the business case study and how to better market my product to future employers. 
