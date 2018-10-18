@@ -106,7 +106,7 @@ ROC score on test dataset:  0.994
 
 ### Recommendations
 
-![Useful dist](https://github.com/vijayswamy89/Housing_Recommender/blob/master/apartment-listings.png)
+![Useful dist](https://github.com/vijayswamy89/Housing_Recommender/blob/master/images/apartment-listings.png)
 
 #### How my recommender performs in comparison to a user filtering apartment listings between $1000 and $2000
 
