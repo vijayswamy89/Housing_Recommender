@@ -36,7 +36,7 @@ After filling the missing values, I convert categorical variables into a numeric
 
 ### Imbalance of Data
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/images/unbalanced-data.png)
 
 In the data above, 0 represents apartment listings the user is not interested in checking out and 1 represents the apartment listings the user is interested in looking at.
 
@@ -51,7 +51,7 @@ How do I deal with this situation? I oversample the 1% of the data or the apartm
 
 ### What features are most correlated with whether a user is interested in an apartment listing?
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/images/top-correlated-features.png)
 
 ## Modeling
 
@@ -81,11 +81,11 @@ ROC score on test dataset:  0.912
 
 #### Ridge Classifier ROC Curve
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/images/ridge-classifier-roc.png)
 
 #### Ridge Classifier Confusion Matrix
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/images/ridge-classifier-confusion-matrix.png)
 
 
 #### Neural Network
@@ -98,15 +98,15 @@ ROC score on test dataset:  0.994
 
 #### Neural Network ROC Curve
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/images/neural-network-roc-curve.png)
 
 #### Neural Network Confusion Matrix
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/images/neural-network-classifier-matrix.png)
 
 ### Recommendations
 
-![Useful dist] (https://github.com/vijayswamy89/)
+![Useful dist] (https://github.com/vijayswamy89/recommendations.html)
 
 #### How my recommender performs in comparison to a user filtering apartment listings between $1000 and $2000
 
