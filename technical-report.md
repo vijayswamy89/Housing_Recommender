@@ -102,11 +102,11 @@ ROC score on test dataset:  0.994
 
 #### Neural Network Confusion Matrix
 
-![Useful dist](https://github.com/vijayswamy89/Housing_Recommender/blob/master/images/neural-network-classifier-matrix.pn)
+![Useful dist](https://github.com/vijayswamy89/Housing_Recommender/blob/master/images/neural-network-classifier-matrix.png)
 
 ### Recommendations
 
-![Useful dist](https://github.com/vijayswamy89/Housing_Recommender/blob/master/recommendations.html)
+![Useful dist](https://github.com/vijayswamy89/Housing_Recommender/blob/master/apartment-listings.png)
 
 #### How my recommender performs in comparison to a user filtering apartment listings between $1000 and $2000
 
